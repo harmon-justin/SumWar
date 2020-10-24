@@ -1,3 +1,5 @@
+  <!--DOCTYPE html>
+  <!--Harmon, Justin CPT422-->
   <html>
   <head>
   <title>Summoners War</title>
