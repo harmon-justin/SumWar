@@ -1,5 +1,3 @@
-# SumWar
-Summoners War
 <!DOCTYPE html>
 <html>
 <head>
