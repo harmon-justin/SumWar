@@ -7,7 +7,7 @@ Summoners War
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Mobile Game that will eat up all your time.">
 <style>
-body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
+body {background-color:#4b1649;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
 h1{text-align:center;font-family:Impact, sans-serif;color:#000000;background-color:#7106f4;}
 p {text-align:left;font-family:Cursive;font-size:16px;font-style:normal;font-weight:bold;color:#fb0909;background-color:#26f2ef;}
 </style>
