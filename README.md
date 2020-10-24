@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<! DOCTYPE HTML>
+<! Harmon Justin Final)
 <html>
 <head>
 <title>Summoners War</title>
